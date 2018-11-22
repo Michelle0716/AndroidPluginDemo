@@ -27,3 +27,9 @@ zip file "/storage/emulated/0/plugin_test/apks/plugin.apk"]
 
 
 
+###  备注
+我这里没有服务端下发apk,手动移动到sd又很麻烦，所以暂时放在asset,在app中复制到sd里面
+#### 注意
+如果没有添加读写权限，没办法实现文件复制移动
+#####   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+#####    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
