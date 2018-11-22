@@ -15,4 +15,9 @@ zip file "/storage/emulated/0/plugin_test/apks/plugin.apk"]
 
 ## 先加载apk,在点击“到插件”
 
+## 调用DexClassLoader
+##  插件化作用
+增加功能，不用重新打包，绕过商店上架审核
+
+
 
