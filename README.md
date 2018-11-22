@@ -20,4 +20,10 @@ zip file "/storage/emulated/0/plugin_test/apks/plugin.apk"]
 增加功能，不用重新打包，绕过商店上架审核
 
 
+## 获取包信息
+####        Log.i("JG",  "包名："+getPackageName());
+####        Log.w("JG",  "代码路径："+getPackageCodePath());
+####        Log.e("JG",  "资源路径："+getPackageResourcePath());
+
+
 
