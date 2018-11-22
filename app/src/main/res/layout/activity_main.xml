@@ -22,6 +22,6 @@
         android:layout_marginTop="100dp"
         android:background="#eeeeee"
         android:padding="20dp"
-        android:text="点击" />
+        android:text="到插件" />
 
 </LinearLayout>
