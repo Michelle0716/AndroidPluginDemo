@@ -15,6 +15,7 @@ import dalvik.system.DexClassLoader;
 /**
  * @author michelle on 2018/3/7.
  *
+ * 获取apk插件的相关信息
  */
 
 public class PluginManager {
